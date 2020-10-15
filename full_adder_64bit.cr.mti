@@ -1,0 +1,36 @@
+C:/modeltech64_2019.4/examples/full_adder_4bit_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2019.4/examples/full_adder_4bit_test.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Test4Bit
+
+Top level modules:
+	Test4Bit
+
+} {} {}} C:/modeltech64_2019.4/examples/full_adder_16bit.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2019.4/examples/full_adder_16bit.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FullAdder16Bit
+
+Top level modules:
+	FullAdder16Bit
+
+} {} {}} C:/modeltech64_2019.4/examples/full_adder_1bit_test.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2019.4/examples/full_adder_1bit_test.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Test1Bit
+
+Top level modules:
+	Test1Bit
+
+} {} {}} C:/modeltech64_2019.4/examples/full_adder_4bit.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2019.4/examples/full_adder_4bit.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FullAdder4Bit
+
+Top level modules:
+	FullAdder4Bit
+
+} {} {}} C:/modeltech64_2019.4/examples/full_adder_1bit.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2019.4/examples/full_adder_1bit.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module FullAdder1Bit
+
+Top level modules:
+	FullAdder1Bit
+
+} {} {}}
